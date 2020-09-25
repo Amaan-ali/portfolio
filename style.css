@@ -12,7 +12,7 @@ img{
     flex-direction: row;
     /* margin: 18px; */
     flex-wrap: wrap;
-    justify-content:space-between;
+    justify-content:space-around;
     align-items: center;
     align-items: stretch;
 }
@@ -20,7 +20,7 @@ img{
     margin-bottom: 15px;
 }
 .card {
-    margin: auto;
+    margin: 5px;
 }
 footer{
     font-family: 'Montserrat Alternates', sans-serif;
