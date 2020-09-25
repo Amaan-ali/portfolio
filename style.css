@@ -9,7 +9,7 @@ img{
 #carddd{
     display: flex;
     flex-direction: row;
-    margin: 18px;
+    /* margin: 18px; */
     flex-wrap: wrap;
     justify-content:space-between;
     align-items: center;
@@ -42,4 +42,10 @@ footer{
     margin: 41px;
     list-style: none;
 
+}
+#skills{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
 }
