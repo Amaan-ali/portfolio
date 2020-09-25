@@ -1,3 +1,6 @@
+.navbar .navbar-expand-lg .navbar-light .bg-light .shadow-lg{
+    position: sticky;
+}
 img{
     padding: 0px;
     margin: 0px;
@@ -43,7 +46,7 @@ footer{
     list-style: none;
 
 }
-#skills{
+#myskills{
     display: flex;
     justify-content: center;
     text-align: center;
